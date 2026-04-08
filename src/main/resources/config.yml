@@ -1,0 +1,5 @@
+webhook_url: "https://discord.com/api/webhooks/1463212528959099142/9IQVKgXfGh2YCJxJ6KUtBI7OI5TGTADFTaKf9JNWC8QeZslP86RXQ7cx9hvNVUfGoEBr"
+ping_role_id: "1463212970489286899"
+
+# How often to update the timer on active auctions
+update_interval_seconds: 10

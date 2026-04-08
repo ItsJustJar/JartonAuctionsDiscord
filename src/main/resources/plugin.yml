@@ -1,0 +1,7 @@
+name: JartonAuctionsDiscord
+main: me.jarton.pa2discord.JartonAuctionsDiscordPlugin
+version: 1.0.0
+api-version: "1.20"
+depend: [PlayerAuctions]
+author: JartonMC
+description: Logs PlayerAuctions auctions to Discord using webhooks.
